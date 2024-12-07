@@ -1,6 +1,5 @@
 # 💫 About Me:
-Développeur FullStack Junior spécialisé Backend TypeScript<br>Apprenti chef de projet
-
+Chef de projet IT & Développeur FullStack
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/K8g9SvfU6n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gillet.paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-gillet-etna) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Nexanss) 
